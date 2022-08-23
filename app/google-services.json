@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890306741188",
+    "project_id": "fir-practica-d5a83",
+    "storage_bucket": "fir-practica-d5a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890306741188:android:a09779f30bba258b0ada91",
+        "android_client_info": {
+          "package_name": "com.example.firebasepractica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890306741188-f9ath0043n7kpbhvd1j2i7jgstl77jhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv223wfR9URkXc1jnTSh3h28gt02Mnytw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890306741188-f9ath0043n7kpbhvd1j2i7jgstl77jhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
